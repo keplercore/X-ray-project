@@ -16,9 +16,8 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 CNN
 
-![obraz](https://user-images.githubusercontent.com/91603107/176996362-e978e9e7-b3cc-463f-bb25-0a5c0bf2f99a.png)
-![obraz](https://user-images.githubusercontent.com/91603107/176996370-085e6edd-3193-440f-971f-14e192bb6ff0.png)
-
+![obraz](https://user-images.githubusercontent.com/91603107/177000126-a3957bb7-93e1-45ed-81f3-d591e79e3c50.png)
+![obraz](https://user-images.githubusercontent.com/91603107/177000132-fd967d94-eb23-4aa6-b677-c6962d0bac02.png)
 
 Efficenet
 
