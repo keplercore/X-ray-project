@@ -12,7 +12,7 @@ As per of repository descirption:
 
 Chest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients’ routine clinical care. "
 
-<b> Models </b>
+<b> Models tested </b>
 
 CNN
 
@@ -29,4 +29,6 @@ Mobilenet
 ![obraz](https://user-images.githubusercontent.com/91603107/176995890-4deddd5e-b374-49a8-af71-ba4656b51965.png)
 ![obraz](https://user-images.githubusercontent.com/91603107/176995891-8588badd-74aa-459a-8b7a-8a663276dfe2.png)
 
+<b> Model chosen </b>
 
+As per chosen target - only the CNN has met over >80% validation accuracy, thus being the only project being ported to the ruidmentary implementation in "X_ray_implement.ipynb".
