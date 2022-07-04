@@ -16,19 +16,15 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 CNN
 
-![CNN-1 1](https://user-images.githubusercontent.com/91603107/177183090-ea689ba8-5168-4eb7-9f2b-23e39a0388f3.png)
-
-![CNN-2](https://user-images.githubusercontent.com/91603107/177183102-825b83f6-12be-48e0-bea1-a3ae61a54df5.png)
+![CNN-1](https://user-images.githubusercontent.com/91603107/177183439-52e02c29-de9b-48c2-b3ae-fd0e4074a8df.png)
 
 Efficenet
 
-![obraz](https://user-images.githubusercontent.com/91603107/176995877-acd624e7-de3d-4bda-8ca5-2e0a4a64ee91.png)
-![obraz](https://user-images.githubusercontent.com/91603107/176995879-37d8d583-10ed-4355-9daf-892b54ea79ce.png)
+![EFF-1](https://user-images.githubusercontent.com/91603107/177183459-7609ed3e-a586-4eb0-986a-7eaa508a3728.png)
 
 Mobilenet
 
-![obraz](https://user-images.githubusercontent.com/91603107/176995890-4deddd5e-b374-49a8-af71-ba4656b51965.png)
-![obraz](https://user-images.githubusercontent.com/91603107/176995891-8588badd-74aa-459a-8b7a-8a663276dfe2.png)
+![Mobile_1](https://user-images.githubusercontent.com/91603107/177183476-095019dd-99af-4a08-919c-4b8c9f6558ab.png)
 
 <b> Model chosen </b>
 
