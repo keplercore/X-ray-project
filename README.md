@@ -1,5 +1,5 @@
 # X ray - pneumonia categorization
-Three CV models to predict pneumonia trained on this <a href = "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia"> repo </a> on kaggle
+Three CV models to predict pneumonia in X-ray images trained on this <a href = "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia"> repo </a> on kaggle
 
 <b> Problem </b>
 
