@@ -3,7 +3,7 @@ Three CV models to predict pneumonia in X-ray images trained on this <a href = "
 
 <b> Problem </b>
 
-In the light of current epidemic a NN may come in handy to help radiologists, hence I decided to train a few models that would be a useful in this setting. I've set a goal of validation accuracy over 80%.
+In the light of current epidemic machine learning may come in handy to help radiologists, hence I decided to train a few models that would be a useful in this setting. I've set a goal of validation accuracy over 80%.
 
 <b> Data </b>
 
