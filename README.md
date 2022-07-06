@@ -29,5 +29,3 @@ Mobilenet
 <b> Model chosen </b>
 
 As per chosen target - only the CNN has met over >80% validation accuracy, thus being the only project being ported to the ruidmentary implementation in "X_ray_implement.ipynb" via Keras' serialization. 
-
-Code output interpretation - first value in vector is probability of the X-ray presenting without pneumonia, second - with pneumonia.
